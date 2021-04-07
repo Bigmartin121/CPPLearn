@@ -1,0 +1,4 @@
+#inculde<iostream>
+
+main(){}
+
